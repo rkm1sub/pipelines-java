@@ -1,6 +1,7 @@
 
 [![Build Status](https://dev.azure.com/subonline/Pipelines-Test/_apis/build/status/rkm1sub.pipelines-java?branchName=master)](https://dev.azure.com/subonline/Pipelines-Test/_build/latest?definitionId=1&branchName=master)
 
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
